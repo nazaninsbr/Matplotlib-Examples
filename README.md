@@ -21,6 +21,8 @@
 <h3 id="3d">3D</h3>
 <img src="./results/3d1.png"><br>
 <img src="./results/3d2.png"><br>
+<img src="./results/3d3.png"><br>
+<img src="./results/3d4.png"><br>
 
 <h3 id="style">Styles</h3>
 <img src="./results/styles.png">
