@@ -2,6 +2,11 @@
 
 <h2>Table of Content</h2>
 <ul>
+	<li><a href="#3d">3D
+		<ul>
+			<li>first try at Mplot3d</li>
+		</ul>
+	</a></li>
 	<li><a href="#style">Styles</a></li>
 	<li><a href="#imgTut">Image Tutorial on matplotlib.org</a></li>
 	<li>Line plots</li>
@@ -12,6 +17,10 @@
 </ul>
 
 <hr>
+
+<h3 id="3d">3D</h3>
+<img src="./results/3d1.png"><br>
+<img src="./results/3d2.png"><br>
 
 <h3 id="style">Styles</h3>
 <img src="./results/styles.png">
@@ -28,4 +37,3 @@
 
 <h3 id="hist">Histogram</h3>
 <img src="./results/hist.png">
-
